@@ -7,8 +7,7 @@ target 'Devashree-2206-Assessment' do
 
   # Pods for Devashree-2206-Assessment
 
-	pod 'Alamofire' #TODO:
-	pod 'AlamofireImage', '~> 4.1'
+	pod 'Alamofire'
   pod 'SwiftyJSON', '~> 4.0'
   pod 'Nuke'
 

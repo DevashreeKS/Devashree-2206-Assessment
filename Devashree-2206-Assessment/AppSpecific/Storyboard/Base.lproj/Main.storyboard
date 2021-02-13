@@ -519,8 +519,7 @@ best photos &amp; vedios</string>
                                                         <state key="normal" image="Facorite_home-deselet"/>
                                                         <state key="selected" image="Favorite-home-select"/>
                                                         <connections>
-                                                            <action selector="btnFavriteClicked" destination="bl7-Cw-qPO" eventType="touchUpInside" id="0xw-4f-oi0"/>
-                                                            <action selector="btnFavriteClicked" destination="mpC-7z-fCr" eventType="touchUpInside" id="Fwb-tT-kuz"/>
+                                                            <action selector="btnFavriteClicked" destination="mpC-7z-fCr" eventType="touchUpInside" id="mIf-iO-FX6"/>
                                                         </connections>
                                                     </button>
                                                 </subviews>
