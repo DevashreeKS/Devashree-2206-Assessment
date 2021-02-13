@@ -17,7 +17,7 @@ Pexels API : https://www.pexels.com/api/documentation/#authorization
 
 ## Usage
 
-1. This app developed using MVVM achitecture
+1. This app developed using MVVM achitecture, Swift
 2. Dependancies used are :
         'Alamofire',
         'SwiftyJSON', '~> 4.0',
