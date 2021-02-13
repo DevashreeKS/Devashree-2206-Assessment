@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-Devashree-2206-Assessment-Devashree-2206-AssessmentUITests/Pods-Devashree-2206-Assessment-Devashree-2206-AssessmentUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/AlamofireImage/AlamofireImage.framework
+${BUILT_PRODUCTS_DIR}/Nuke/Nuke.framework
+${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework

@@ -1,0 +1,6 @@
+framework module Pods_Devashree_2206_Assessment_Devashree_2206_AssessmentUITests {
+  umbrella header "Pods-Devashree-2206-Assessment-Devashree-2206-AssessmentUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
