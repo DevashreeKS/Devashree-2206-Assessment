@@ -24,6 +24,8 @@ Pexels API : https://www.pexels.com/api/documentation/#authorization
         'Nuke
         etc
 
+![alt text](https://github.com/DevashreeKS/Devashree-2206-Assessment/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202021-02-13%20at%2018.46.21.png)
+
 
 ## Contributing
 
