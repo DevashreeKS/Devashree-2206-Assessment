@@ -1,9 +1,8 @@
 //
 //  PhotoplayViewModel.swift
-//  MVVM_New
+//  Devashree-2206-Assessment
 //
-//  Created by Abhilash Mathur on 20/05/20.
-//  Copyright © 2020 Abhilash Mathur. All rights reserved.
+//  Created by Devashree KS on 13/02/21.
 //
 
 import Foundation
