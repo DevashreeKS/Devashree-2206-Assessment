@@ -1,10 +1,3 @@
-#  Photoplay
-
-Pagging
-Zoom in - out
-Play video
-image size based on device 
-
 # Photoplay
 
 This is a app that can be used to search for free stock photos and videos. It makes use of Pexels APIs. It also allows users to search for an entity, mark as favorite/unfavrites, seamless downloading of photos & videos & playing. Also supports pagination to load more and more data. It supports landscape / portrait orientation.
@@ -58,6 +51,8 @@ Yet to be done features :
 4. Video item detail view
 5. Caching for photos & videos
 6. Unit test cases 
+7. Zoom in - out in detail view
+8. Displaying images size based on device size
 
 
 ## Credits
